@@ -531,19 +531,9 @@ This project is licensed under the MIT License.
 - **GitHub**: [GitHub Profile](https://github.com/ahmedabdulghany7)
 
 ✉ Omar Waleed
-- **Email**: 
-- **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/)
-- **GitHub**: [GitHub Profile](https://github.com/)
-
-✉ Omar Waleed
-- **Email**: 
-- **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/)
-- **GitHub**: [GitHub Profile](https://github.com/)
-
-✉ Mohammed Hamdy
-- **Email**: 
-- **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/)
-- **GitHub**: [GitHub Profile](https://github.com/)
+- **Email**: ow1012003@gmail.com
+- **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/omar-waleed-60806b265/)
+- **GitHub**: [GitHub Profile](https://github.com/0marWaleed/)
 
 ---
 
